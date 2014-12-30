@@ -1,6 +1,8 @@
 Storming
 ========
 
+No work is being done in this repo. Please check https://github.com/asm-products/storming-me for the most updated code.
+
 ![](https://raw.githubusercontent.com/karan/Storming/master/screen.png?token=ADHGIfqMIxyYAkV3shcdsK-VpzUGI5Mhks5UngfvwA%3D%3D)
 
 Hacking The Tweetstorm... With Pictures of Text
